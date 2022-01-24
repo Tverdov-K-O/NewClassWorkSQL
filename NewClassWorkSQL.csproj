@@ -79,6 +79,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>DB_Toyota.mdf</DependentUpon>
     </Content>
+    <Content Include="DZ_Toyota\Toyota.sql" />
     <Content Include="HightLoadDB.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
